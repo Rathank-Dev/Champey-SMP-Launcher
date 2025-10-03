@@ -13,10 +13,10 @@ Highlights (EN):
 - Documentation: installation guide, quick start, known issues
 
 Assets:
-- Source code (this repo)
-- build/v0.0.1/launcher.apk (or distribution zip)
-- CHANGELOG.md
-- RELEASE_NOTES.md
+- soon
+- soon
+- soon
+- soon
 
 Known issues:
 - Some device compatibility edge-cases — see README > Known Issues
