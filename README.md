@@ -1,4 +1,4 @@
-📢 SAMP Mobile Launcher — v0.0.1 (Official Public Release) — 13 April 2025
+📢 SAMP Mobile Launcher — v0.0.1 (Official Public Release) — 13 October 2025
 
 ខ្លីសង្ខេប (KH):
 - កំណត់ចេញផ្សាយផ្លូវការ v0.0.1
